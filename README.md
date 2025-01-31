@@ -1,16 +1,16 @@
 # Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials
 Boosted 2D materials synthesis success rate from 61% to 90% by designing and implementing advanced Random Forest models in Python programming language [jupyter notebook](https://github.com/Chu-Te-Ethan-Chen/Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials/blob/main/interconnect_project_501.ipynb), reducing production costs by 40% and accelerating research timelines by 3 months.
 
-## [Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials.pdf](https://github.com/Chu-Te-Ethan-Chen/Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials/blob/main/Assets/Data-Driven%20Smart%20Synthesis%20of%20Two-Dimensional%20Materials.pdf)
-
-([Published in the 127th Topical Symposium of the New York State Section of the American Physical Society (NYSSAPS) 2023](https://archivesites.nyssaps.org/Spring2023/agenda.pdf#page=21))
+## Oral and poster presentations
+1. [Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials.pdf](https://github.com/Chu-Te-Ethan-Chen/Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials/blob/main/Assets/Data-Driven%20Smart%20Synthesis%20of%20Two-Dimensional%20Materials.pdf)<br />([Published in the 127th Topical Symposium of the New York State Section of the American Physical Society (NYSSAPS) 2023](https://archivesites.nyssaps.org/Spring2023/agenda.pdf#page=21))
 
 ![poster_screenshot](https://github.com/Chu-Te-Ethan-Chen/Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials/blob/main/Assets/Poster_screenshot.png)
 
+2. [Location-Selective CVD Synthesis of Circular MoS2 Flakes with Ultrahigh Field-Effect Mobility](https://github.com/Chu-Te-Ethan-Chen/Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials/blob/main/Assets/11-03-2024%20AVS70/81895_2D%2BAP%2BEM%2BQS%2BSS%2BTF-TuM-6_Nov_5_0915AM_0930AM_Location-Selective%20CVD%20Synthesis%20of%20Circular%20MoS2%20Flakes%20with%20Ultrahigh%20Field-Effect%20Mobility_2024_10_15.pdf) <br />([Published in the AVS 70th International Symposium & Exhibition, Tampa, Florida, November 2024](https://avs70.avs.org/wp-content/uploads/2024/07/ProgramBook_Complete.pdf#page=50))
 
-## [Site Specific Synthesis of Molybdenum Disulfide Using Chemical Vapor Deposition](https://github.com/Chu-Te-Ethan-Chen/Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials/blob/main/Assets/11-05-2023%20AVS69/11-05-2023%20AVS69%20Chu_Te_Chen.pdf) 
+![Talk_screenshot](https://github.com/Chu-Te-Ethan-Chen/Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials/blob/main/Assets/11-03-2024%20AVS70/11-03-2024%20AVS70%20screenshot.png)
 
-([Published in the AVS 69th International Symposium & Exhibition, Portland, Oregon, November 2023](https://avs69.avs.org/wp-content/uploads/2023/11/ProgramBook_Complete.pdf#page=179))
+3. [Site Specific Synthesis of Molybdenum Disulfide Using Chemical Vapor Deposition](https://github.com/Chu-Te-Ethan-Chen/Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials/blob/main/Assets/11-05-2023%20AVS69/11-05-2023%20AVS69%20Chu_Te_Chen.pdf) <br />([Published in the AVS 69th International Symposium & Exhibition, Portland, Oregon, November 2023](https://avs69.avs.org/wp-content/uploads/2023/11/ProgramBook_Complete.pdf#page=179))
 
 ![poster_screenshot](https://github.com/Chu-Te-Ethan-Chen/Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials/blob/main/Assets/11-05-2023%20AVS69/Poster_screenshot.png)
 
