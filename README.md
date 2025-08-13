@@ -10,7 +10,7 @@ Boosted 2D materials synthesis success rate from 61% to 90% by designing and imp
 
 ![Talk_screenshot](https://github.com/Chu-Te-Ethan-Chen/Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials/blob/main/Assets/05-19-2025%20IEEE%20MDTS/05-19-2025%20IEEE%20MDTS%20screenshot.png)
 
-3. [Location-Selective CVD Synthesis of Circular MoS2 Flakes with Ultrahigh Field-Effect Mobility](https://github.com/Chu-Te-Ethan-Chen/Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials/blob/main/Assets/11-03-2024%20AVS70/81895_2D%2BAP%2BEM%2BQS%2BSS%2BTF-TuM-6_Nov_5_0915AM_0930AM_Location-Selective%20CVD%20Synthesis%20of%20Circular%20MoS2%20Flakes%20with%20Ultrahigh%20Field-Effect%20Mobility_2024_10_15.pdf) <br />([Published in the AVS 70th International Symposium & Exhibition, Tampa, Florida, November 2024](https://avs70.avs.org/wp-content/uploads/2024/07/ProgramBook_Complete.pdf#page=50))
+3. [Location-Selective CVD Synthesis of Circular MoS2 Flakes with Ultrahigh Field-Effect Mobility.pdf](https://github.com/Chu-Te-Ethan-Chen/Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials/blob/main/Assets/11-03-2024%20AVS70/81895_2D%2BAP%2BEM%2BQS%2BSS%2BTF-TuM-6_Nov_5_0915AM_0930AM_Location-Selective%20CVD%20Synthesis%20of%20Circular%20MoS2%20Flakes%20with%20Ultrahigh%20Field-Effect%20Mobility_2024_10_15.pdf) <br />([Published in the AVS 70th International Symposium & Exhibition, Tampa, Florida, November 2024](https://avs70.avs.org/wp-content/uploads/2024/07/ProgramBook_Complete.pdf#page=50))
 
 ![Talk_screenshot](https://github.com/Chu-Te-Ethan-Chen/Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials/blob/main/Assets/11-03-2024%20AVS70/11-03-2024%20AVS70%20screenshot.png)
 
