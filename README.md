@@ -31,11 +31,15 @@
 2.	S. Shahi, A. Ahmed, R. Yang, A. Cabanillas, A. Chakravarty, M. Liu, H. N. Jaiswal, Y. Fu, Y. Guo, S. Jadeja, H. Murugesan, A. Butler, <ins>C. Chen</ins>, J. Muhigirwa, M. Enaitalla, J. Liu, F. Yao*, and H. Li*, "Plasma-induced energy band evolution for two-dimensional heterogeneous anti-ambipolar transistors", __Journal of Vacuum Science & Technology B (2023) (selected as an Editor's Pick)__. (DOI:  https://doi.org/10.1116/6.0002888)
 3.	A. Cabanillas, H. N. Jaiswal, A. Chakravarty, A. Ahmed, Y. Fu, <ins>C. Chen</ins>, F. Yao, H. Li*, "Inherent Photogating in MoTe2 Transistors with Van der Waals Contacts", __IEEE 2024 Device Research Conference (DRC)__. (DOI: https://doi.org/10.1109/DRC61706.2024.10605297)
 4.	M. S. Parasnis, Y. Fu, E. Deng, A. Butler, <ins>C. Chen</ins>, R. Dias, H. Lin, F. Yao*, and P. C. Nalam*, “High-Performance Ti3C2Tx-MXene/Mycelium Hybrid Membrane for Efficient Lead Remediation: Design and Mechanistic Insights”, __ACS Applied Materials & Interfaces (2025)__. (DOI: https://doi.org/10.1021/acsami.4c19943)
-5.	S. K. Arachchige†, <ins>C. Chen</ins>†, A. Dutta†, S. Im, A. Butler, A. Kuzmin, A. Neelur, P. Khadagale, A. Cabanillas, D. Adinehloo, A. Rzhevskii, M. Swihart, V. Perebeinos, H. Li, F. Yao*, P. N. Prasad*, “Rare-Earth-Modified Luminescent Two-dimensional Nanosheets Derived from Oxidized Mo2C MXene”, __2D Materials__, under review.
-6.	P. Khandagale†, S. K. Arachchige†, <ins>C. Chen</ins>, A. Neelur , A. Dutta, F. Yao, M. Swihart*, and P. N. Prasad* “Comparative study of five distinct etching strategies to synthesize 2D (Mo2/3Nd1/3)2CTx i-MXene from (Mo2/3Nd1/3)2AlC i-MAX phase”__Journal of Materials Chemistry A__, under review.
-7.	<ins>C. Chen</ins>†, A. Cabanillas†, A. Ahmed, A. Butler, Y. Fu, H. Hui, H. Zeng, A. Yadav, G. Lee, K. T. Wong*, F. Yao*, and H. Li*, "Wafer-Scale 2D MoS2 Transistors Using Transfer-Free Location-on-Demand Selective Synthesis", manuscript in preparation.
-8.	K. Bayoudh, <ins>C. Chen</ins>, F. Yao, S. Bricq*, "Hybrid machine learning for 2D materials design and discovery in computer vision: A comprehensive review", manuscript in preparation.
-9.	Z. Li, Y. Fu, S. Wei, J. Lee, <ins>C. Chen</ins>, F. Yao, and H. Sun*, "Machine Learning in 2D Materials: A Comprehensive Review of Synthesis, Characterization, and Bandgap Engineering", manuscript in preparation.
+
+
+## Manuscript submitted or in preparation
+1.	S. K. Arachchige†, <ins>C. Chen</ins>†, A. Dutta†, S. Im, A. Butler, A. Kuzmin, A. Neelur, P. Khadagale, A. Cabanillas, D. Adinehloo, A. Rzhevskii, M. Swihart, V. Perebeinos, H. Li, F. Yao*, P. N. Prasad*, “Rare-Earth-Modified Luminescent Two-dimensional Nanosheets Derived from Oxidized Mo2C MXene”, 2D Materials, under review.
+2.	P. Khandagale†, S. K. Arachchige†, <ins>C. Chen</ins>, A. Neelur , A. Dutta, F. Yao, M. Swihart*, and P. N. Prasad* “Comparative study of five distinct etching strategies to synthesize 2D (Mo2/3Nd1/3)2CTx i-MXene from (Mo2/3Nd1/3)2AlC i-MAX phase”, Journal of Materials Chemistry A, under review.
+3.	<ins>C. Chen</ins>†, A. Cabanillas†, A. Ahmed, A. Butler, Y. Fu, H. Hui, H. Zeng, A. Yadav, G. Lee, K. T. Wong*, F. Yao*, and H. Li*, "Wafer-Scale 2D MoS2 Transistors Using Transfer-Free Location-on-Demand Selective Synthesis", manuscript in preparation.
+4.	K. Bayoudh, <ins>C. Chen</ins>, F. Yao, S. Bricq*, "Hybrid machine learning for 2D materials design and discovery in computer vision: A comprehensive review", manuscript in preparation.
+5.	Z. Li, Y. Fu, S. Wei, J. Lee, <ins>C. Chen</ins>, F. Yao, and H. Sun*, "Machine Learning in 2D Materials: A Comprehensive Review of Synthesis, Characterization, and Bandgap Engineering", manuscript in preparation.
+
 
 ## Conferences
 <ins>Underline</ins> as the applicant, * as the corresponding author.
