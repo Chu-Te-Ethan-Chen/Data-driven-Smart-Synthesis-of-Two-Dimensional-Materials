@@ -1,23 +1,27 @@
 # Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials
 
 ## Oral and poster presentations
-1. [Wafer-Scale 2D MoS2 Transistors Using Transfer-Free Location-on-Demand Selective Synthesis.pdf](https://github.com/Chu-Te-Ethan-Chen/Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials/blob/main/Assets/08-11-2025%20PEC%202025/Chu_Te_Ethan_Chen_PEC_2025_poster_36x48_V5.pdf)<br />([Published in the 84th Physical Electronics Conference - PEC 2025, Brookhaven National Laboratory,  New York, Aug 2025](https://pec2025.replit.app/static/attached_assets/PEC%20Abstract%20Booklet.pdf#page=31))
+1. [Data-Driven CVD Synthesis of MoS2: Toward Site-Specific Semiconductors and Future HER Catalyst for Energy Applications.pdf](https://github.com/Chu-Te-Ethan-Chen/Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials/blob/main/Assets/09-09-2025%20Universit%C3%A9%20Bourgogne%20Europe%20Dijon%20France/2025-09-09%20ChuTe%20Ethan%20Chen%20presentation%20at%20Universit%C3%A9%20Bourgogne%20Europe%20Dijon%20France%20V3.pdf)<br />([Published in the ImViA workshop, Université Bourgogne Europe, Dijon, France, Sep 2025]())
+
+![Talk_screenshot](https://github.com/Chu-Te-Ethan-Chen/Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials/blob/main/Assets/09-09-2025%20Universit%C3%A9%20Bourgogne%20Europe%20Dijon%20France/2025-09-09%20screenshot.png)
+
+2. [Wafer-Scale 2D MoS2 Transistors Using Transfer-Free Location-on-Demand Selective Synthesis.pdf](https://github.com/Chu-Te-Ethan-Chen/Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials/blob/main/Assets/08-11-2025%20PEC%202025/Chu_Te_Ethan_Chen_PEC_2025_poster_36x48_V5.pdf)<br />([Published in the 84th Physical Electronics Conference - PEC 2025, Brookhaven National Laboratory,  New York, Aug 2025](https://pec2025.replit.app/static/attached_assets/PEC%20Abstract%20Booklet.pdf#page=31))
 
 ![Poster_screenshot](https://github.com/Chu-Te-Ethan-Chen/Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials/blob/main/Assets/08-11-2025%20PEC%202025/PEC%202025%20ChuTe%20Chen%20poster%20screenshot.png)
 
-2. [Location-Controlled Chemical Vapor Deposition of MoS2 for High-Performance Field-Effect Transistor Arrays.pdf](https://github.com/Chu-Te-Ethan-Chen/Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials/blob/main/Assets/05-19-2025%20IEEE%20MDTS/28_Location-Controlled%20Chemical%20Vapor%20Deposition%20of%20MoS2%20for%20High-Performance%20Field-Effect%20Transistor%20Arrays_05_19_2025.pdf)<br />([Published in the the 34th Microelectronics Design and Test Symposium (IEEE MDTS 2025), Albany, New York](https://mdts.ieee.org/full-agenda-2025/))
+3. [Location-Controlled Chemical Vapor Deposition of MoS2 for High-Performance Field-Effect Transistor Arrays.pdf](https://github.com/Chu-Te-Ethan-Chen/Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials/blob/main/Assets/05-19-2025%20IEEE%20MDTS/28_Location-Controlled%20Chemical%20Vapor%20Deposition%20of%20MoS2%20for%20High-Performance%20Field-Effect%20Transistor%20Arrays_05_19_2025.pdf)<br />([Published in the the 34th Microelectronics Design and Test Symposium (IEEE MDTS 2025), Albany, New York](https://mdts.ieee.org/full-agenda-2025/))
 
 ![Talk_screenshot](https://github.com/Chu-Te-Ethan-Chen/Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials/blob/main/Assets/05-19-2025%20IEEE%20MDTS/05-19-2025%20IEEE%20MDTS%20screenshot.png)
 
-3. [Location-Selective CVD Synthesis of Circular MoS2 Flakes with Ultrahigh Field-Effect Mobility.pdf](https://github.com/Chu-Te-Ethan-Chen/Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials/blob/main/Assets/11-03-2024%20AVS70/Location-Selective%20CVD%20Synthesis%20of%20Circular%20MoS2%20Flakes%20with%20Ultrahigh%20Field-Effect%20Mobility_2024_10_15.pdf) <br />([Published in the AVS 70th International Symposium & Exhibition, Tampa, Florida, November 2024](https://avs70.avs.org/wp-content/uploads/2024/07/ProgramBook_Complete.pdf#page=50))
+4. [Location-Selective CVD Synthesis of Circular MoS2 Flakes with Ultrahigh Field-Effect Mobility.pdf](https://github.com/Chu-Te-Ethan-Chen/Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials/blob/main/Assets/11-03-2024%20AVS70/Location-Selective%20CVD%20Synthesis%20of%20Circular%20MoS2%20Flakes%20with%20Ultrahigh%20Field-Effect%20Mobility_2024_10_15.pdf) <br />([Published in the AVS 70th International Symposium & Exhibition, Tampa, Florida, November 2024](https://avs70.avs.org/wp-content/uploads/2024/07/ProgramBook_Complete.pdf#page=50))
 
 ![Talk_screenshot](https://github.com/Chu-Te-Ethan-Chen/Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials/blob/main/Assets/11-03-2024%20AVS70/11-03-2024%20AVS70%20screenshot.png)
 
-4. [Site Specific Synthesis of Molybdenum Disulfide Using Chemical Vapor Deposition](https://github.com/Chu-Te-Ethan-Chen/Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials/blob/main/Assets/11-05-2023%20AVS69/11-05-2023%20AVS69%20Chu_Te_Chen.pdf) <br />([Published in the AVS 69th International Symposium & Exhibition, Portland, Oregon, November 2023](https://avs69.avs.org/wp-content/uploads/2023/11/ProgramBook_Complete.pdf#page=179))
+5. [Site Specific Synthesis of Molybdenum Disulfide Using Chemical Vapor Deposition](https://github.com/Chu-Te-Ethan-Chen/Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials/blob/main/Assets/11-05-2023%20AVS69/11-05-2023%20AVS69%20Chu_Te_Chen.pdf) <br />([Published in the AVS 69th International Symposium & Exhibition, Portland, Oregon, November 2023](https://avs69.avs.org/wp-content/uploads/2023/11/ProgramBook_Complete.pdf#page=179))
 
 ![poster_screenshot](https://github.com/Chu-Te-Ethan-Chen/Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials/blob/main/Assets/11-05-2023%20AVS69/Poster_screenshot.png)
 
-5. [Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials.pdf](https://github.com/Chu-Te-Ethan-Chen/Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials/blob/main/Assets/Data-Driven%20Smart%20Synthesis%20of%20Two-Dimensional%20Materials.pdf)<br />([Published in the 127th Topical Symposium of the New York State Section of the American Physical Society (NYSSAPS) 2023](https://archivesites.nyssaps.org/Spring2023/agenda.pdf#page=21))
+6. [Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials.pdf](https://github.com/Chu-Te-Ethan-Chen/Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials/blob/main/Assets/Data-Driven%20Smart%20Synthesis%20of%20Two-Dimensional%20Materials.pdf)<br />([Published in the 127th Topical Symposium of the New York State Section of the American Physical Society (NYSSAPS) 2023](https://archivesites.nyssaps.org/Spring2023/agenda.pdf#page=21))
 
 ![poster_screenshot](https://github.com/Chu-Te-Ethan-Chen/Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials/blob/main/Assets/Poster_screenshot.png)
 
@@ -61,7 +65,7 @@
 -	National Chung Cheng University, Dean's List Award, Jun 2018
 
 ## PROFESSION SERVICES 
--	__Peer reviewer__ of 3 journals such as JES, ACS Appl. Mater. Interfaces, and PSS (b)
+-	__Peer reviewer__ of reputable international journal: Physica Status Solidi (B): Basic Research
 -	Member of board of directors GSA at UB, Sep 2024 – Sep 2025
 -	Hosted 3 international researchers from the SKKU University, Korean, Jul 2025
 -	Organized lab tours for MDI departmental visits for the French researchers from the University of Burgundy, France, 2024
