@@ -1,9 +1,13 @@
 # Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials
 
 ## Oral and poster presentations
-1. [Data-Driven CVD Synthesis of MoS2: Toward Site-Specific Semiconductors and Future HER Catalyst for Energy Applications.pdf](https://github.com/Chu-Te-Ethan-Chen/Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials/blob/main/Assets/09-09-2025%20Universit%C3%A9%20Bourgogne%20Europe%20Dijon%20France/2025-09-09%20ChuTe%20Ethan%20Chen%20presentation%20at%20Universit%C3%A9%20Bourgogne%20Europe%20Dijon%20France%20V3.pdf)<br />([Published in the ImViA workshop, Université Bourgogne Europe, Dijon, France, Sep 2025]())
+1. [Engineered MoO3 Thickness Control for Area-Selective Chemical Vapor Deposition of Two-Dimensional MoS2.pdf](https://github.com/Chu-Te-Ethan-Chen/Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials/blob/main/Assets/03-31-2026%20ASD2026/Chu_Te_Chen_(Ethan)_ASD_2026_poster_36x48_V1.pdf)<br />([Published in the Area Selective Deposition (ASD) conference, Albany, New York, Mar 2026](https://asd2026.avs.org/wp-content/uploads/2026/02/ProgramBook_Complete.pdf#page=19))
 
-![Talk_screenshot](https://github.com/Chu-Te-Ethan-Chen/Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials/blob/main/Assets/09-09-2025%20Universit%C3%A9%20Bourgogne%20Europe%20Dijon%20France/2025-09-09%20screenshot.png)
+![Poster_screenshot](https://github.com/Chu-Te-Ethan-Chen/Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials/blob/main/Assets/03-31-2026%20ASD2026/03-31-2026%20ASD%202026%20screenshot.png)
+
+2. [Data-Driven CVD Synthesis of MoS2: Toward Site-Specific Semiconductors and Future HER Catalyst for Energy Applications.pdf](https://github.com/Chu-Te-Ethan-Chen/Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials/blob/main/Assets/09-09-2025%20Universit%C3%A9%20Bourgogne%20Europe%20Dijon%20France/2025-09-09%20ChuTe%20Ethan%20Chen%20presentation%20at%20Universit%C3%A9%20Bourgogne%20Europe%20Dijon%20France%20V3.pdf)<br />([Published in the ImViA workshop, Université Bourgogne Europe, Dijon, France, Sep 2025]())
+
+![Poster_screenshot](https://github.com/Chu-Te-Ethan-Chen/Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials/blob/main/Assets/09-09-2025%20Universit%C3%A9%20Bourgogne%20Europe%20Dijon%20France/2025-09-09%20screenshot.png)
 
 2. [Wafer-Scale 2D MoS2 Transistors Using Transfer-Free Location-on-Demand Selective Synthesis.pdf](https://github.com/Chu-Te-Ethan-Chen/Data-driven-Smart-Synthesis-of-Two-Dimensional-Materials/blob/main/Assets/08-11-2025%20PEC%202025/Chu_Te_Ethan_Chen_PEC_2025_poster_36x48_V5.pdf)<br />([Published in the 84th Physical Electronics Conference - PEC 2025, Brookhaven National Laboratory,  New York, Aug 2025](https://pec2025.replit.app/static/attached_assets/PEC%20Abstract%20Booklet.pdf#page=31))
 
